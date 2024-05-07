@@ -12,9 +12,3 @@
 
 
 
-
-## Installing a Dependency
-
-You can install any dependencies (for example, React Router) with `npm`:
-
-
